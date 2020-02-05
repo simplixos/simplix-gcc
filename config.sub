@@ -1341,7 +1341,7 @@ case $os in
 	gnu* | bsd* | mach* | minix* | genix* | ultrix* | irix* \
 	     | *vms* | esix* | aix* | cnk* | sunos | sunos[34]*\
 	     | hpux* | unos* | osf* | luna* | dgux* | auroraux* | solaris* \
-	     | sym* | kopensolaris* | plan9* \
+	     | sym* | kopensolaris* | plan9* | simplix* \
 	     | amigaos* | amigados* | msdos* | newsos* | unicos* | aof* \
 	     | aos* | aros* | cloudabi* | sortix* \
 	     | nindy* | vxsim* | vxworks* | ebmon* | hms* | mvs* \
